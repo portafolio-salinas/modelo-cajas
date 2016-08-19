@@ -1,0 +1,19 @@
+.fuera {
+	padding:20px;
+	border-style: solid;
+	border-width: 20px 10px;
+	border-color:blue;
+	background:#F888B2 ; 
+	margin: 50px;
+}
+.dentro {
+	align-content: center;
+	background: #FAF4F4;
+	border-style:dashed;
+	padding: 20px 10px 30px 40px;
+} 
+p {
+	text-align: center;
+} /** 
+Escribir el CSS necesario aqui
+*/
